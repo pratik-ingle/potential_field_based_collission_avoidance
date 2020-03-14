@@ -2,3 +2,5 @@
 
 
 ![](path.png)
+
+![](potential_collision_avoidance.png)
