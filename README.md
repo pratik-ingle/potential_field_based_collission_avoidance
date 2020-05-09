@@ -1,4 +1,4 @@
-# potential_field_based_collission_avoidance
+# potential_field_based_collision_avoidance
 
 
 ![](path.png)
